@@ -16,8 +16,9 @@ Archives of GoPro Firmware
 ##### New Features
 
 - Improves the automated file transfer process when connected to GoPro software on your computer
+
 ##### General Improvements + Bug Fixes
- - Addresses issues that may impact image quality in incandescent or fluorescent lighting conditions
+- Addresses issues that may impact image quality in incandescent or fluorescent lighting conditions
 - Other improvements and bug fixes
 -  Mac users only: Addresses issues with importing after updating to the OS X® 10.10.3 supplemental update
 
@@ -41,6 +42,7 @@ Archives of GoPro Firmware
 ##### Usability Improvements
 - Improves playback and clip-and-save experiences
 - Improves the experience when connecting to the GoPro App for mobile and the Smart Remote
+
 ##### General Improvements + Bug Fixes
 - Improves the connectivity experience when the camera transitions between iOS and Android devices
 - Fixes issues related to Wi-Fi configuration and network connection
@@ -66,6 +68,7 @@ Archives of GoPro Firmware
 - Adds additional White Balance settings to allow for finer adjustments when optimizing for cool or warm lighting conditions. Available for videos and photos.
 - Adds additional ISO control settings. Adds additional ISO options, adds the ability to lock the ISO setting for video and set an ISO range for photo capture.
 - Adds additional Bluetooth functionality to support the Works with GoPro program.
+
 ##### Usability Improvements
 - Adds the ability to add/remove HiLight Tags directly from the touch display*
 - Adds the ability to quickly move to the next or previous HiLight Tag in a video*
