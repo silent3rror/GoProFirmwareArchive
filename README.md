@@ -70,6 +70,7 @@ Archives of GoPro Firmware
 - Adds the ability to add/remove HiLight Tags directly from the touch display*
 - Adds the ability to quickly move to the next or previous HiLight Tag in a video*
 - Media filters** add the ability to sort content in the gallery (thumbnail) view by videos or photos so you can find specific content faster. Filters, the slideshow option, and the ability to delete multiple files can be accessed from the Menu icon in gallery view.
+
 ##### General Improvements + Bug Fixes
 - Fixes stability with video playback over HDMI
 - Improves time lapse stability and interval accuracy
@@ -86,10 +87,12 @@ Archives of GoPro Firmware
 - Adds additional White Balance settings to allow for finer adjustments when optimizing for cool or warm lighting conditions. Available for videos and photos.
 - Adds additional ISO control settings. Adds additional ISO options, adds the ability to lock the ISO setting for video and set an ISO range for photo capture.
 - Adds additional Bluetooth functionality to support the Works with GoPro program.
+
 ##### Usability Improvements
 - Adds the ability to add/remove HiLight Tags directly from the touch display*
 - Adds the ability to quickly move to the next or previous HiLight Tag in a video*
 - Media filters** add the ability to sort content in the gallery (thumbnail) view by videos or photos so you can find specific content faster. Filters, the slideshow option, and the ability to delete multiple files can be accessed from the Menu icon in gallery view.
+
 ##### General Improvements + Bug Fixes
 - Fixes stability with video playback over HDMI
 - Improves time lapse stability and interval accuracy
