@@ -4,7 +4,7 @@ Archives of GoPro Firmware
 ##### Repository includes
 - HERO3 Silver and Black
 - HERO [2014]
-- HERO+ HERO+ and HERO+LCD
+- HERO+ [HERO+ and HERO+LCD]
 - HERO4 Silver, Black, and Session
 
 ## Changelogs/Release Notes
