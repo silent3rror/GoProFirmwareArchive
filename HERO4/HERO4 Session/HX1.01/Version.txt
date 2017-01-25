@@ -1,0 +1,3 @@
+Model String = HX1.01
+Version = 02.00
+Date = 20160331

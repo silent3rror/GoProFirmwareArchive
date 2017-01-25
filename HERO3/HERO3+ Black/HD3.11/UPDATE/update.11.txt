@@ -1,0 +1,6 @@
+# Camera upgrade rules file
+OPTIONS:10
+
+# Load sequence
+CAMERA:1
+WIFIAPP:1

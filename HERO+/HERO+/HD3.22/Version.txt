@@ -1,0 +1,3 @@
+Model String = HD3.22
+Version = 01.50
+Date = 20160511
